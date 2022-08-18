@@ -172,7 +172,7 @@ p{
 
 #first-slider .slide1 h2, #first-slider .slide2 h2, #first-slider .slide3 h2, #first-slider .slide4 h2{
     color: #fff;
-    font-size:60px;
+    font-size:30px;
     text-transform: uppercase;
     font-weight:700;
 	width:80%;
@@ -358,7 +358,7 @@ p{
 /*       Slides backgrounds     */
 /********************************/
 #first-slider .slide1 {
-	background:url(../images/slide1.JPG);
+	background:url(../images/slide1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -373,10 +373,20 @@ p{
     background-repeat: no-repeat;
 }
 #first-slider .slide4 {
+	background:url(../images/slide4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+	
+}
+
+#first-slider .slide5 {
 	background:url(../images/slide4.JPG);
     background-size: 100%;
     background-repeat: no-repeat;
+	
 }
+
+
 
 #about-sec{
 	display:block;
